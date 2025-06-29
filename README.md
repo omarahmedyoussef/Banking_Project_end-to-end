@@ -63,7 +63,7 @@ Key insights visualized with:
 
 - 👤 **Omar Youssef**
 - 📧 computerscienceasu@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/omarahmedyoussef](https://www.linkedin.com/in/omar-youssef-688635237/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/omarahmedyoussef](https://www.linkedin.com/in/omar-youssef-688635237/)
 
 ---
 
