@@ -1,0 +1,5 @@
+loan_type,count(loan_id)
+Personal,4883
+Auto,1753
+Mortgage,1700
+Business,1664

@@ -1,0 +1,5 @@
+loan_status,Number_of_loans
+Paid,3325
+Defaulted,3311
+Default,1708
+In_Progress,1656
