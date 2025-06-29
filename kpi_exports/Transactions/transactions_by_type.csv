@@ -1,0 +1,5 @@
+transaction_type,no_of_transactions
+Deposit,3341
+Withdraw,3300
+Transfer,1685
+Unknown,1674
